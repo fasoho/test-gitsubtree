@@ -1,4 +1,4 @@
-package com.fasoho;
+package com.fasoho.helloworld;
 
 /**
  * Hello world!

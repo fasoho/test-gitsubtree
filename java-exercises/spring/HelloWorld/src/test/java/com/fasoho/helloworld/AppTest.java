@@ -1,4 +1,4 @@
-package com.fasoho;
+package com.fasoho.helloworld;
 
 import static org.junit.Assert.assertTrue;
 
